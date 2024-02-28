@@ -4,7 +4,6 @@ import re
 from openai import OpenAI
 from pathlib import Path
 
-OpenAI.api_key = os.getenv('OPENAI_API_KEY')
 
 argc = len(sys.argv)
 
