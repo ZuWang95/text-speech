@@ -10,4 +10,4 @@ python openAI_speech.py example.tex
 
 ```
 
-The output will be in the .mp3 files.
+The output will be in .mp3 format.
